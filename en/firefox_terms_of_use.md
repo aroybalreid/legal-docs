@@ -85,3 +85,5 @@ Attn: Mozilla – Legal Notices <br>
 San Francisco, CA 94103
 
 legal-notices@mozilla.com
+
+Please note that we do not accept information requests from government agencies at the above address.  See our [Transparency Page](https://www.mozilla.org/en-US/about/policy/transparency/) for details about how to submit such requests.
